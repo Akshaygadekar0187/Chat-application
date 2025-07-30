@@ -1,0 +1,4 @@
+com\AMGapp\chatroom\ChatroomApplication.class
+com\AMGapp\chatroom\config\WebSocketConfig.class
+com\AMGapp\chatroom\controller\ChatController.class
+com\AMGapp\chatroom\model\ChatMessage.class
